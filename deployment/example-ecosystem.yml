@@ -12,4 +12,4 @@
       MYSQL_USER: "pixmap"
       MYSQL_DATABASE: "pixmap"
       MYSQL_PW: "sqlpassword"
-      SESSION_SECRET: "ayyylmao"
+      SESSION_SECRET: "secret"
